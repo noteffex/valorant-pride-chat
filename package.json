@@ -1,0 +1,23 @@
+{
+  "name": "valorant-pride-chat",
+  "version": "1.0.0",
+  "description": "Colored valorant chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noteffex/valorant-pride-chat.git"
+  },
+  "author": "https://github.com/noteffex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noteffex/valorant-pride-chat/issues"
+  },
+  "homepage": "https://github.com/noteffex/valorant-pride-chat#readme",
+  "dependencies": {
+    "clipboardy": "^2.3.0",
+    "readline-sync": "^1.4.10"
+  }
+}
