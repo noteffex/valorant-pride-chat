@@ -5,6 +5,7 @@
 ![Preview](https://cdn.discordapp.com/attachments/774615897540657183/852967218840993862/unknown.png)
 
 # Installing dependencies
+Make sure you have [Node.js](https://nodejs.org/) installed.
 ```
 npm install
 ```
