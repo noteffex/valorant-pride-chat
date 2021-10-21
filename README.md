@@ -1,6 +1,7 @@
 # Valorant pride chat
  Small script to type in color in valorant.\
  Built with [Node.js](https://nodejs.org/)
+ The method used to achieve the effect below is patched
 
 ![Preview](https://cdn.discordapp.com/attachments/774615897540657183/852967218840993862/unknown.png)
 
